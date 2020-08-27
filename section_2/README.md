@@ -34,4 +34,15 @@ partition your code.
 
 * scope is where a variable has meaning and
 is accessible
-* 
+
+
+## Type Conversion
+
+* if your source and target data types are compatible, the compiler will implicitly
+convert types
+* if the source and target data types are
+not compatible, you will need to cast
+the data type conversion explicitly
+
+
+

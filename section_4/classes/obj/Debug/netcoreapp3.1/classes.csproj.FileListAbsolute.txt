@@ -1,0 +1,12 @@
+/Users/angela/csharp_work/section_4/classes/bin/Debug/netcoreapp3.1/classes.deps.json
+/Users/angela/csharp_work/section_4/classes/bin/Debug/netcoreapp3.1/classes.runtimeconfig.json
+/Users/angela/csharp_work/section_4/classes/bin/Debug/netcoreapp3.1/classes.runtimeconfig.dev.json
+/Users/angela/csharp_work/section_4/classes/bin/Debug/netcoreapp3.1/classes.dll
+/Users/angela/csharp_work/section_4/classes/bin/Debug/netcoreapp3.1/classes.pdb
+/Users/angela/csharp_work/section_4/classes/obj/Debug/netcoreapp3.1/classes.csprojAssemblyReference.cache
+/Users/angela/csharp_work/section_4/classes/obj/Debug/netcoreapp3.1/classes.AssemblyInfoInputs.cache
+/Users/angela/csharp_work/section_4/classes/obj/Debug/netcoreapp3.1/classes.AssemblyInfo.cs
+/Users/angela/csharp_work/section_4/classes/obj/Debug/netcoreapp3.1/classes.csproj.CoreCompileInputs.cache
+/Users/angela/csharp_work/section_4/classes/obj/Debug/netcoreapp3.1/classes.dll
+/Users/angela/csharp_work/section_4/classes/obj/Debug/netcoreapp3.1/classes.pdb
+/Users/angela/csharp_work/section_4/classes/obj/Debug/netcoreapp3.1/classes.genruntimeconfig.cache

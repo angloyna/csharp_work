@@ -1,0 +1,12 @@
+/Users/angela/csharp_work/section_2/hello_console/bin/Debug/netcoreapp3.1/hello_console.deps.json
+/Users/angela/csharp_work/section_2/hello_console/bin/Debug/netcoreapp3.1/hello_console.runtimeconfig.json
+/Users/angela/csharp_work/section_2/hello_console/bin/Debug/netcoreapp3.1/hello_console.runtimeconfig.dev.json
+/Users/angela/csharp_work/section_2/hello_console/bin/Debug/netcoreapp3.1/hello_console.dll
+/Users/angela/csharp_work/section_2/hello_console/bin/Debug/netcoreapp3.1/hello_console.pdb
+/Users/angela/csharp_work/section_2/hello_console/obj/Debug/netcoreapp3.1/hello_console.csprojAssemblyReference.cache
+/Users/angela/csharp_work/section_2/hello_console/obj/Debug/netcoreapp3.1/hello_console.AssemblyInfoInputs.cache
+/Users/angela/csharp_work/section_2/hello_console/obj/Debug/netcoreapp3.1/hello_console.AssemblyInfo.cs
+/Users/angela/csharp_work/section_2/hello_console/obj/Debug/netcoreapp3.1/hello_console.csproj.CoreCompileInputs.cache
+/Users/angela/csharp_work/section_2/hello_console/obj/Debug/netcoreapp3.1/hello_console.dll
+/Users/angela/csharp_work/section_2/hello_console/obj/Debug/netcoreapp3.1/hello_console.pdb
+/Users/angela/csharp_work/section_2/hello_console/obj/Debug/netcoreapp3.1/hello_console.genruntimeconfig.cache
