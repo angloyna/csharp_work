@@ -1,0 +1,12 @@
+/Users/angela/csharp_work/section_6/arrays/bin/Debug/netcoreapp3.1/arrays.deps.json
+/Users/angela/csharp_work/section_6/arrays/bin/Debug/netcoreapp3.1/arrays.runtimeconfig.json
+/Users/angela/csharp_work/section_6/arrays/bin/Debug/netcoreapp3.1/arrays.runtimeconfig.dev.json
+/Users/angela/csharp_work/section_6/arrays/bin/Debug/netcoreapp3.1/arrays.dll
+/Users/angela/csharp_work/section_6/arrays/bin/Debug/netcoreapp3.1/arrays.pdb
+/Users/angela/csharp_work/section_6/arrays/obj/Debug/netcoreapp3.1/arrays.csprojAssemblyReference.cache
+/Users/angela/csharp_work/section_6/arrays/obj/Debug/netcoreapp3.1/arrays.AssemblyInfoInputs.cache
+/Users/angela/csharp_work/section_6/arrays/obj/Debug/netcoreapp3.1/arrays.AssemblyInfo.cs
+/Users/angela/csharp_work/section_6/arrays/obj/Debug/netcoreapp3.1/arrays.csproj.CoreCompileInputs.cache
+/Users/angela/csharp_work/section_6/arrays/obj/Debug/netcoreapp3.1/arrays.dll
+/Users/angela/csharp_work/section_6/arrays/obj/Debug/netcoreapp3.1/arrays.pdb
+/Users/angela/csharp_work/section_6/arrays/obj/Debug/netcoreapp3.1/arrays.genruntimeconfig.cache
