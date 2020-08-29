@@ -1,0 +1,12 @@
+/Users/angela/csharp_work/section_7/datetime/bin/Debug/netcoreapp3.1/datetime.deps.json
+/Users/angela/csharp_work/section_7/datetime/bin/Debug/netcoreapp3.1/datetime.runtimeconfig.json
+/Users/angela/csharp_work/section_7/datetime/bin/Debug/netcoreapp3.1/datetime.runtimeconfig.dev.json
+/Users/angela/csharp_work/section_7/datetime/bin/Debug/netcoreapp3.1/datetime.dll
+/Users/angela/csharp_work/section_7/datetime/bin/Debug/netcoreapp3.1/datetime.pdb
+/Users/angela/csharp_work/section_7/datetime/obj/Debug/netcoreapp3.1/datetime.csprojAssemblyReference.cache
+/Users/angela/csharp_work/section_7/datetime/obj/Debug/netcoreapp3.1/datetime.AssemblyInfoInputs.cache
+/Users/angela/csharp_work/section_7/datetime/obj/Debug/netcoreapp3.1/datetime.AssemblyInfo.cs
+/Users/angela/csharp_work/section_7/datetime/obj/Debug/netcoreapp3.1/datetime.csproj.CoreCompileInputs.cache
+/Users/angela/csharp_work/section_7/datetime/obj/Debug/netcoreapp3.1/datetime.dll
+/Users/angela/csharp_work/section_7/datetime/obj/Debug/netcoreapp3.1/datetime.pdb
+/Users/angela/csharp_work/section_7/datetime/obj/Debug/netcoreapp3.1/datetime.genruntimeconfig.cache
