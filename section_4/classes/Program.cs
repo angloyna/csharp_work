@@ -3,6 +3,11 @@ using classes.Math;
 
 namespace classes
 { 
+    public enum ShippingMethod {
+        RegularAirMail = 1,
+        RegisteredAirMail = 2,
+        Express = 3
+    }
     class Program
     {
         static void Main(string[] args)
@@ -29,6 +34,28 @@ namespace classes
 
             string list = string.Join(", ", numbers);
             System.Console.WriteLine(list);
+
+            var formattedNames = string.Join(",", names);
+            System.Console.WriteLine(formattedNames);
+
+            var text = @"Hi John
+Look into the following
+c:\folder1";
+
+            System.Console.WriteLine(text);
+
+            var method = ShippingMethod.Express;
+
+            System.Console.WriteLine((int)method);
+            
+             var methodId = 3;
+             System.Console.WriteLine((ShippingMethod)methodId);
+
+             System.Console.WriteLine(method);
+
+             var methodName = "Express";
+
+             var shippingMethod = (ShippingMethod)System.Enum.Parse(typeof(ShippingMethod), methodName);
 
         }
     }

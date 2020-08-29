@@ -1,0 +1,12 @@
+/Users/angela/csharp_work/section_5/control_flow/obj/Debug/netcoreapp3.1/control_flow.csprojAssemblyReference.cache
+/Users/angela/csharp_work/section_5/control_flow/obj/Debug/netcoreapp3.1/control_flow.AssemblyInfoInputs.cache
+/Users/angela/csharp_work/section_5/control_flow/obj/Debug/netcoreapp3.1/control_flow.AssemblyInfo.cs
+/Users/angela/csharp_work/section_5/control_flow/obj/Debug/netcoreapp3.1/control_flow.csproj.CoreCompileInputs.cache
+/Users/angela/csharp_work/section_5/control_flow/bin/Debug/netcoreapp3.1/control_flow.deps.json
+/Users/angela/csharp_work/section_5/control_flow/bin/Debug/netcoreapp3.1/control_flow.runtimeconfig.json
+/Users/angela/csharp_work/section_5/control_flow/bin/Debug/netcoreapp3.1/control_flow.runtimeconfig.dev.json
+/Users/angela/csharp_work/section_5/control_flow/bin/Debug/netcoreapp3.1/control_flow.dll
+/Users/angela/csharp_work/section_5/control_flow/bin/Debug/netcoreapp3.1/control_flow.pdb
+/Users/angela/csharp_work/section_5/control_flow/obj/Debug/netcoreapp3.1/control_flow.dll
+/Users/angela/csharp_work/section_5/control_flow/obj/Debug/netcoreapp3.1/control_flow.pdb
+/Users/angela/csharp_work/section_5/control_flow/obj/Debug/netcoreapp3.1/control_flow.genruntimeconfig.cache
