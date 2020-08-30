@@ -1,0 +1,12 @@
+/Users/angela/csharp_work/section_8/strings/bin/Debug/netcoreapp3.1/strings.deps.json
+/Users/angela/csharp_work/section_8/strings/bin/Debug/netcoreapp3.1/strings.runtimeconfig.json
+/Users/angela/csharp_work/section_8/strings/bin/Debug/netcoreapp3.1/strings.runtimeconfig.dev.json
+/Users/angela/csharp_work/section_8/strings/bin/Debug/netcoreapp3.1/strings.dll
+/Users/angela/csharp_work/section_8/strings/bin/Debug/netcoreapp3.1/strings.pdb
+/Users/angela/csharp_work/section_8/strings/obj/Debug/netcoreapp3.1/strings.csprojAssemblyReference.cache
+/Users/angela/csharp_work/section_8/strings/obj/Debug/netcoreapp3.1/strings.AssemblyInfoInputs.cache
+/Users/angela/csharp_work/section_8/strings/obj/Debug/netcoreapp3.1/strings.AssemblyInfo.cs
+/Users/angela/csharp_work/section_8/strings/obj/Debug/netcoreapp3.1/strings.csproj.CoreCompileInputs.cache
+/Users/angela/csharp_work/section_8/strings/obj/Debug/netcoreapp3.1/strings.dll
+/Users/angela/csharp_work/section_8/strings/obj/Debug/netcoreapp3.1/strings.pdb
+/Users/angela/csharp_work/section_8/strings/obj/Debug/netcoreapp3.1/strings.genruntimeconfig.cache
