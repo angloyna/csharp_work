@@ -1,0 +1,12 @@
+/Users/angela/csharp_work/part_2/section_2/stackoverflow/bin/Debug/netcoreapp3.1/stackoverflow.deps.json
+/Users/angela/csharp_work/part_2/section_2/stackoverflow/bin/Debug/netcoreapp3.1/stackoverflow.runtimeconfig.json
+/Users/angela/csharp_work/part_2/section_2/stackoverflow/bin/Debug/netcoreapp3.1/stackoverflow.runtimeconfig.dev.json
+/Users/angela/csharp_work/part_2/section_2/stackoverflow/bin/Debug/netcoreapp3.1/stackoverflow.dll
+/Users/angela/csharp_work/part_2/section_2/stackoverflow/bin/Debug/netcoreapp3.1/stackoverflow.pdb
+/Users/angela/csharp_work/part_2/section_2/stackoverflow/obj/Debug/netcoreapp3.1/stackoverflow.csprojAssemblyReference.cache
+/Users/angela/csharp_work/part_2/section_2/stackoverflow/obj/Debug/netcoreapp3.1/stackoverflow.AssemblyInfoInputs.cache
+/Users/angela/csharp_work/part_2/section_2/stackoverflow/obj/Debug/netcoreapp3.1/stackoverflow.AssemblyInfo.cs
+/Users/angela/csharp_work/part_2/section_2/stackoverflow/obj/Debug/netcoreapp3.1/stackoverflow.csproj.CoreCompileInputs.cache
+/Users/angela/csharp_work/part_2/section_2/stackoverflow/obj/Debug/netcoreapp3.1/stackoverflow.dll
+/Users/angela/csharp_work/part_2/section_2/stackoverflow/obj/Debug/netcoreapp3.1/stackoverflow.pdb
+/Users/angela/csharp_work/part_2/section_2/stackoverflow/obj/Debug/netcoreapp3.1/stackoverflow.genruntimeconfig.cache
