@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/angela/.dotnet/store/|arch|/|tfm|",
+      "/Users/angela/.nuget/packages"
+    ]
+  }
+}

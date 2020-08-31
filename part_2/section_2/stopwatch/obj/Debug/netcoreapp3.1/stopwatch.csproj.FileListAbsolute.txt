@@ -1,0 +1,12 @@
+/Users/angela/csharp_work/part_2/section_2/stopwatch/bin/Debug/netcoreapp3.1/stopwatch.deps.json
+/Users/angela/csharp_work/part_2/section_2/stopwatch/bin/Debug/netcoreapp3.1/stopwatch.runtimeconfig.json
+/Users/angela/csharp_work/part_2/section_2/stopwatch/bin/Debug/netcoreapp3.1/stopwatch.runtimeconfig.dev.json
+/Users/angela/csharp_work/part_2/section_2/stopwatch/bin/Debug/netcoreapp3.1/stopwatch.dll
+/Users/angela/csharp_work/part_2/section_2/stopwatch/bin/Debug/netcoreapp3.1/stopwatch.pdb
+/Users/angela/csharp_work/part_2/section_2/stopwatch/obj/Debug/netcoreapp3.1/stopwatch.csprojAssemblyReference.cache
+/Users/angela/csharp_work/part_2/section_2/stopwatch/obj/Debug/netcoreapp3.1/stopwatch.AssemblyInfoInputs.cache
+/Users/angela/csharp_work/part_2/section_2/stopwatch/obj/Debug/netcoreapp3.1/stopwatch.AssemblyInfo.cs
+/Users/angela/csharp_work/part_2/section_2/stopwatch/obj/Debug/netcoreapp3.1/stopwatch.csproj.CoreCompileInputs.cache
+/Users/angela/csharp_work/part_2/section_2/stopwatch/obj/Debug/netcoreapp3.1/stopwatch.dll
+/Users/angela/csharp_work/part_2/section_2/stopwatch/obj/Debug/netcoreapp3.1/stopwatch.pdb
+/Users/angela/csharp_work/part_2/section_2/stopwatch/obj/Debug/netcoreapp3.1/stopwatch.genruntimeconfig.cache
