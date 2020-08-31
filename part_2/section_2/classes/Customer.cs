@@ -7,25 +7,29 @@ namespace classes
     {
         public int Id;
         public string Name;
-        public List<Order> Orders;
+        public readonly List<Order> Orders = new List<Order>();
+
+        private bool IsGoldMember = false;
+
 
         public Customer()
         {
-            this.Orders = new List<Order>();
         }
 
         public Customer(int id)
-            : this()
         {
             this.Id = id;
         }
 
         public Customer(int id, string name)
-            : this()
+            : this(id)
         {  
-            this.Id = id;
-            this.Name = name;
-            
+            this.Name = name; 
+        }
+
+        public void Promote()
+        {
+            IsGoldMember = true;
         }
 
     }

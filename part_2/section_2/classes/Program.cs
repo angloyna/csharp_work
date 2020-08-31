@@ -2,32 +2,17 @@
 
 namespace classes
 {
-    public class Person
-    {
-        public string Name;
-
-        public void Introduce(string friend)
-        {
-            System.Console.WriteLine("Hi {0}, I am {1}", friend, Name);
-        }
-
-        public static Person Parse(string str)
-        {
-            var person = new Person();
-            person.Name = str;
-            return person;
-        }
-    }
     class Program
     {
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            var  person = new Person();
+            var  person = new Person(new DateTime(1982, 2, 6));
+            System.Console.WriteLine(person.Age);
             person.Name = "Angela";
             person.Introduce("Mosh");
 
-            var otherPerson = Person.Parse("Peter");
+            var otherPerson = Person.Parse(new DateTime(1992, 7, 23), "Peter");
             otherPerson.Introduce("Mosh");
 
             var customer = new Customer(1, "John");
