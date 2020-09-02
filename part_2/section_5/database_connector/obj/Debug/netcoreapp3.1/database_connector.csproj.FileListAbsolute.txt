@@ -1,0 +1,12 @@
+/Users/angela/csharp_work/part_2/section_5/database_connector/bin/Debug/netcoreapp3.1/database_connector.deps.json
+/Users/angela/csharp_work/part_2/section_5/database_connector/bin/Debug/netcoreapp3.1/database_connector.runtimeconfig.json
+/Users/angela/csharp_work/part_2/section_5/database_connector/bin/Debug/netcoreapp3.1/database_connector.runtimeconfig.dev.json
+/Users/angela/csharp_work/part_2/section_5/database_connector/bin/Debug/netcoreapp3.1/database_connector.dll
+/Users/angela/csharp_work/part_2/section_5/database_connector/bin/Debug/netcoreapp3.1/database_connector.pdb
+/Users/angela/csharp_work/part_2/section_5/database_connector/obj/Debug/netcoreapp3.1/database_connector.csprojAssemblyReference.cache
+/Users/angela/csharp_work/part_2/section_5/database_connector/obj/Debug/netcoreapp3.1/database_connector.AssemblyInfoInputs.cache
+/Users/angela/csharp_work/part_2/section_5/database_connector/obj/Debug/netcoreapp3.1/database_connector.AssemblyInfo.cs
+/Users/angela/csharp_work/part_2/section_5/database_connector/obj/Debug/netcoreapp3.1/database_connector.csproj.CoreCompileInputs.cache
+/Users/angela/csharp_work/part_2/section_5/database_connector/obj/Debug/netcoreapp3.1/database_connector.dll
+/Users/angela/csharp_work/part_2/section_5/database_connector/obj/Debug/netcoreapp3.1/database_connector.pdb
+/Users/angela/csharp_work/part_2/section_5/database_connector/obj/Debug/netcoreapp3.1/database_connector.genruntimeconfig.cache
